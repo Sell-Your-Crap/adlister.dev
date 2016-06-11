@@ -42,20 +42,6 @@ require_once __DIR__ . '/../../bootstrap.php';
                 <p class="item-description"><?= $ads['description']; ?></p>
             </div>
         <?php endforeach; ?>
-
-        <!-- <div class="col-md-4 items">
-            <img src="http://placehold.it/250x150">
-            <h3 class="item-title">Item for sale</h3>
-            <h4 class="item-description">$5</h4>
-            <p class="item-description">super cool crap here</p>
-        </div>
-
-        <div class="col-md-4 items">
-            <img src="http://placehold.it/250x150">
-            <h3 class="item-title">Item for sale</h3>
-            <h4 class="item-description">$5</h4>
-            <p class="item-description">super cool crap here</p>
-        </div> -->
 	</div>
 
 	<!-- modal -->
